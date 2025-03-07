@@ -1,2 +1,1 @@
-# SCT_WD_3
-TIC-TAC-TOE Application
+# TIC-TAC-TOE Application
